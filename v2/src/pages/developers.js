@@ -112,7 +112,7 @@ const DevelopersPage = () => {
                   "View More",
                   "View more button on developers page"
                 )}
-                href={"/specs/"}
+                href={"https://www.bitcoincash.org/specs/"}
               />
             </div>
           </Col>
